@@ -8,9 +8,8 @@ theese were sourced from [here](https://www.shihoriobata.com/blog/easy-cute-bird
 ***
 ![4](media/moodboard4.JPG)
 
+***
+![4](media/cat.JPG)
 
 ***
-***
-***
-
 ![example](media/boodboard%205.png)
