@@ -1,6 +1,10 @@
 # Cosmetics
 
 ## Ideas
-Any type of owl
+Ringed Seal
 
-## Added
+## Drawn
+Cockatiel
+Barn Owl
+
+# Added into game
