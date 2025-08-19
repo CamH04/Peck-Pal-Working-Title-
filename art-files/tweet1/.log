@@ -1,0 +1,154 @@
+C:/Program Files/Krita (x64)/bin/ffmpeg.exe -hide_banner -y -v debug -r 24 -start_number 0 -start_number_range 1 -i C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame%04d.png -vf palettegen=stats_mode=full:reserve_transparent=1 -y C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/KritaTempPalettegen_%06d.png 
+=====================================================
+Splitting the commandline.
+Reading option '-hide_banner' ... matched as option 'hide_banner' (do not show program banner) with argument '1'.
+Reading option '-y' ... matched as option 'y' (overwrite output files) with argument '1'.
+Reading option '-v' ... matched as option 'v' (set logging level) with argument 'debug'.
+Reading option '-r' ... matched as option 'r' (set frame rate (Hz value, fraction or abbreviation)) with argument '24'.
+Reading option '-start_number' ... matched as AVOption 'start_number' with argument '0'.
+Reading option '-start_number_range' ... matched as AVOption 'start_number_range' with argument '1'.
+Reading option '-i' ... matched as input url with argument 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame%04d.png'.
+Reading option '-vf' ... matched as option 'vf' (set video filters) with argument 'palettegen=stats_mode=full:reserve_transparent=1'.
+Reading option '-y' ... matched as option 'y' (overwrite output files) with argument '1'.
+Reading option 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/KritaTempPalettegen_%06d.png' ... matched as output url.
+Finished splitting the commandline.
+Parsing a group of options: global .
+Applying option hide_banner (do not show program banner) with argument 1.
+Applying option y (overwrite output files) with argument 1.
+Applying option v (set logging level) with argument debug.
+Applying option y (overwrite output files) with argument 1.
+Successfully parsed a group of options.
+Parsing a group of options: input url C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame%04d.png.
+Applying option r (set frame rate (Hz value, fraction or abbreviation)) with argument 24.
+Successfully parsed a group of options.
+Opening an input file: C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame%04d.png.
+[image2 @ 000002984c149ec0] Opening 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame0000.png' for reading
+[file @ 000002984c143640] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000002984c15bdc0] Statistics: 28114 bytes read, 0 seeks
+[image2 @ 000002984c149ec0] Opening 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame0001.png' for reading
+[file @ 000002984c162e00] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000002984c15bdc0] Statistics: 28114 bytes read, 0 seeks
+[image2 @ 000002984c149ec0] Opening 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame0002.png' for reading
+[file @ 000002984c162ec0] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000002984c151d40] Statistics: 28114 bytes read, 0 seeks
+[image2 @ 000002984c149ec0] Opening 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame0003.png' for reading
+[file @ 000002984c162f40] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000002984c151d40] Statistics: 28114 bytes read, 0 seeks
+[image2 @ 000002984c149ec0] Opening 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame0004.png' for reading
+[file @ 000002984c162f40] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000002984c151d40] Statistics: 28114 bytes read, 0 seeks
+[image2 @ 000002984c149ec0] Opening 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame0005.png' for reading
+[file @ 000002984c162f40] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000002984c151d40] Statistics: 37756 bytes read, 0 seeks
+[image2 @ 000002984c149ec0] Opening 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame0006.png' for reading
+[file @ 000002984c162f40] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000002984c151d40] Statistics: 37756 bytes read, 0 seeks
+[image2 @ 000002984c149ec0] Opening 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame0007.png' for reading
+[file @ 000002984c162f40] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000002984c151d40] Statistics: 37756 bytes read, 0 seeks
+[image2 @ 000002984c149ec0] Opening 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame0008.png' for reading
+[file @ 000002984c162f40] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000002984c151d40] Statistics: 37756 bytes read, 0 seeks
+[image2 @ 000002984c149ec0] Opening 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame0009.png' for reading
+[file @ 000002984c162f40] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000002984c151d40] Statistics: 37756 bytes read, 0 seeks
+[image2 @ 000002984c149ec0] Opening 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame0010.png' for reading
+[file @ 000002984c162f40] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000002984c151d40] Statistics: 29622 bytes read, 0 seeks
+Input #0, image2, from 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame%04d.png':
+  Duration: 00:00:00.44, start: 0.000000, bitrate: N/A
+  Stream #0:0, 11, 1/25: Video: png, 1 reference frame, rgba(pc), 512x512 [SAR 5905:5905 DAR 1:1], 0/1, 25 fps, 25 tbr, 25 tbn, 25 tbc
+Successfully opened the file.
+Parsing a group of options: output url C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/KritaTempPalettegen_%06d.png.
+Applying option vf (set video filters) with argument palettegen=stats_mode=full:reserve_transparent=1.
+Successfully parsed a group of options.
+Opening an output file: C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/KritaTempPalettegen_%06d.png.
+Successfully opened the file.
+detected 8 logical cores
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> png (native))
+Press [q] to stop, [?] for help
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+    Last message repeated 8 times
+[Parsed_palettegen_0 @ 000002984c132740] Setting 'stats_mode' to value 'full'
+[Parsed_palettegen_0 @ 000002984c132740] Setting 'reserve_transparent' to value '1'
+[graph 0 input from stream 0:0 @ 000002984c162e00] Setting 'video_size' to value '512x512'
+[graph 0 input from stream 0:0 @ 000002984c162e00] Setting 'pix_fmt' to value '26'
+[graph 0 input from stream 0:0 @ 000002984c162e00] Setting 'time_base' to value '1/24'
+[graph 0 input from stream 0:0 @ 000002984c162e00] Setting 'pixel_aspect' to value '5905/5905'
+[graph 0 input from stream 0:0 @ 000002984c162e00] Setting 'frame_rate' to value '24/1'
+[graph 0 input from stream 0:0 @ 000002984c162e00] w:512 h:512 pixfmt:rgba tb:1/24 fr:24/1 sar:5905/5905
+[format @ 000002984c1eb580] Setting 'pix_fmts' to value 'rgb24|rgba|rgb48be|rgba64be|pal8|gray|ya8|gray16be|ya16be|monob'
+[auto_scaler_0 @ 000002984c1eba00] Setting 'flags' to value 'bicubic'
+[auto_scaler_0 @ 000002984c1eba00] w:iw h:ih flags:'bicubic' interl:0
+[Parsed_palettegen_0 @ 000002984c132740] auto-inserting filter 'auto_scaler_0' between the filter 'graph 0 input from stream 0:0' and the filter 'Parsed_palettegen_0'
+[auto_scaler_1 @ 000002984c1eb680] Setting 'flags' to value 'bicubic'
+[auto_scaler_1 @ 000002984c1eb680] w:iw h:ih flags:'bicubic' interl:0
+[format @ 000002984c1eb580] auto-inserting filter 'auto_scaler_1' between the filter 'Parsed_palettegen_0' and the filter 'format'
+[AVFilterGraph @ 000002984c16f0c0] query_formats: 4 queried, 1 merged, 2 already done, 0 delayed
+[auto_scaler_1 @ 000002984c1eb680] picking rgba out of 10 ref:bgra alpha:1
+[swscaler @ 000002984c211fc0] Forcing full internal H chroma due to input having non subsampled chroma
+[auto_scaler_0 @ 000002984c1eba00] w:512 h:512 fmt:rgba sar:5905/5905 -> w:512 h:512 fmt:bgra sar:1/1 flags:0x4
+[swscaler @ 000002984cc48ec0] Forcing full internal H chroma due to input having non subsampled chroma
+[auto_scaler_1 @ 000002984c1eb680] w:16 h:16 fmt:bgra sar:1/1 -> w:16 h:16 fmt:rgba sar:1/1 flags:0x4
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+    Last message repeated 10 times
+[Parsed_palettegen_0 @ 000002984c132740] 255(+1) colors generated out of 3039 colors; ratio=0.083909
+[Parsed_palettegen_0 @ 000002984c132740] Dupped color: FF0A0A00
+    Last message repeated 3 times
+[Parsed_palettegen_0 @ 000002984c132740] Dupped color: FF3A2200
+[Parsed_palettegen_0 @ 000002984c132740] Dupped color: FF3B2300
+    Last message repeated 10 times
+[Parsed_palettegen_0 @ 000002984c132740] Dupped color: FF3B2606
+[Parsed_palettegen_0 @ 000002984c132740] Dupped color: FF3B2607
+    Last message repeated 5 times
+[Parsed_palettegen_0 @ 000002984c132740] Dupped color: FF695B47
+[Parsed_palettegen_0 @ 000002984c132740] Dupped color: FFA45B38
+[Parsed_palettegen_0 @ 000002984c132740] Dupped color: FFA6A6A6
+    Last message repeated 1 times
+[Parsed_palettegen_0 @ 000002984c132740] Dupped color: FFFD8B68
+[Parsed_palettegen_0 @ 000002984c132740] Dupped color: FFFE8B68
+[Parsed_palettegen_0 @ 000002984c132740] Dupped color: FFFFFF81
+cur_dts is invalid st:0 (0) [init:0 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+Output #0, image2, to 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/KritaTempPalettegen_%06d.png':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0, 0, 1/24: Video: png, 1 reference frame, rgba(pc, gbr/unknown/unknown, progressive), 16x16 (0x0) [SAR 1:1 DAR 1:1], 0/1, q=2-31, 200 kb/s, 24 fps, 24 tbn
+    Metadata:
+      encoder         : Lavc58.134.100 png
+Clipping frame in rate conversion by 0.000008
+frame=    1 fps=0.0 q=0.0 size=N/A time=00:00:00.00 bitrate=N/A speed=   0x    cur_dts is invalid st:0 (0) [init:1 i_done:0 finish:0] (this is harmless if it occurs once at the start per stream)
+[out_0_0 @ 000002984c211e00] EOF on sink link out_0_0:default.
+No more output streams to write to, finishing.
+[image2 @ 000002984c14bf80] Opening 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/KritaTempPalettegen_000001.png' for writing
+[file @ 000002984c142d80] Setting default whitelist 'file,crypto,data'
+[AVIOContext @ 000002984cc6fd00] Statistics: 0 seeks, 1 writeouts
+frame=    1 fps=0.0 q=-0.0 Lsize=N/A time=00:00:00.04 bitrate=N/A speed=1.98x    
+video:1kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: unknown
+Input file #0 (C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame%04d.png):
+  Input stream #0:0 (video): 11 packets read (358972 bytes); 11 frames decoded; 
+  Total: 11 packets (358972 bytes) demuxed
+Output file #0 (C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/KritaTempPalettegen_%06d.png):
+  Output stream #0:0 (video): 1 frames encoded; 1 packets muxed (915 bytes); 
+  Total: 1 packets (915 bytes) muxed
+11 frames successfully decoded, 0 decoding errors
+Input #0, image2, from 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/frame%04d.png':
+  Duration: 00:00:00.44, start: 0.000000, bitrate: N/A
+  Stream #0:0: Video: png, rgba(pc), 512x512 [SAR 5905:5905 DAR 1:1], 25 fps, 25 tbr, 25 tbn, 25 tbc
+Input #1, image2, from 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/KritaTempPalettegen_%06d.png':
+  Duration: 00:00:00.04, start: 0.000000, bitrate: N/A
+  Stream #1:0: Video: png, rgba(pc), 16x16 [SAR 1:1 DAR 1:1], 25 fps, 25 tbr, 25 tbn, 25 tbc
+Stream mapping:
+  Stream #0:0 (png) -> paletteuse:default
+  Stream #1:0 (png) -> paletteuse:palette
+  paletteuse -> Stream #0:0 (gif)
+Press [q] to stop, [?] for help
+[image2 @ 000002a5c10cc000] Thread message queue blocking; consider raising the thread_queue_size option (current value: 8)
+Output #0, gif, to 'C:/Users/Gamer/Documents/peck pal docs/art-files/tweet1/export/tweet-1-idle-animation.gif':
+  Metadata:
+    encoder         : Lavf58.76.100
+  Stream #0:0: Video: gif, pal8(pc, gbr/unknown/unknown, progressive), 512x512 [SAR 1:1 DAR 1:1], q=2-31, 200 kb/s, 24 fps, 100 tbn (default)
+    Metadata:
+      encoder         : Lavc58.134.100 gif
+frame=    1 fps=0.0 q=-0.0 size=       0kB time=00:00:00.01 bitrate=   0.0kbits/s speed=0.608x    frame=   11 fps=0.0 q=-0.0 Lsize=     115kB time=00:00:00.43 bitrate=2185.7kbits/s speed=6.29x    
+video:115kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.017027%

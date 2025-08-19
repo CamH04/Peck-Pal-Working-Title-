@@ -1,0 +1,7 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sdf
+*.VC.db
