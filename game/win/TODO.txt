@@ -1,3 +1,5 @@
+Not Incrementing clicks when tabbed out
 Store clicks encoded in file
 Render animation on click (11 frames including first)
+Make window look nicer (fix box(smaller looks smoother), higher res text)
 Array of sprites (with button to select)
